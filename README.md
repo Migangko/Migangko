@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning University Subjects<br>🎯 Goals: To be a better programmer<br>🎲 Fun fact: Noob</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning University Subjects<br>🎯 Goals: To be a better programmer<br>🎲 Fun fact: Noob</p>
 
 ###
 
